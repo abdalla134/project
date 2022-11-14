@@ -1,0 +1,357 @@
+index.html :
+
+<html>
+<head>
+<title>
+Swidan Motor
+</title>
+<body>
+
+
+  <h2>Swidan Mototr</h2>
+
+ <a href="about.html" target="_blank"title= "go to about us">about us</a>
+ <a href="contactus.html" target="_blank"title= "go to contact us">contact us us</a>
+ <a href="Car.html" target="_blank"title= "go to Cars">Cars</a>
+ <a href="MOTORCYCLES.html" target="_blank"title= "go to MOTORCYCLES">MOTORCYCLES</a>
+  </body>
+
+
+
+</body>
+</html>
+------------------------------------------------------------------------------------------------------------------
+about.html:
+
+<html>
+<head>
+<title>
+about us
+</title>
+
+</head>
+<body>
+    
+
+<h1>  About us             </h1>
+
+<p>
+    Since the early beginnings we at AGM were a customer-centric Company doing our utmost personally & professionally to meet & exceed our Customer's expectations. This simple rule was & still is our main success factor, all our developments through the years based on it.
+
+Taking the company from phase to another creating international partnerships with the most Respected Global players in our industry with the efforts exerted by our team members whom are the most valuable asset of all time. Since 1980 & through the different growth phases, AGM developed its purpose, vision and mission to meet the changing needs of our stakeholders adding to that our corporate social responsibilities by adding value to the community.
+</p>
+ 
+
+</body>
+------------------------------------------------------------------------------------------------------------------------
+car.html
+<head>
+    <title>
+
+        Cars
+    </title>
+</head>
+<body>
+
+
+
+    <a href="FuelCars.html" target="_blank"title= " FuelCars">FuelCars</a>
+
+    <p>With over 40 years of experience in the Egyptian market,Swidan Motors became the leader for Fuel Cars.
+
+        In 2019, Abou Ghaly Motors became an official dealer for Mercedes-Benz in Egypt launching the biggest 3S flagship facility in Egypt and North Africa located at Cairo-Ismailia Desert Road accommodating up to 16 vehicles of Mercedes-Benz wide range of models, offering the most integrated maintenance and service center keeping pace with the highest global standards, with an architectural and technological design made by the concept of “MAR2020” and also known as Markenauftritt – Brand appearance retail. It provides the latest digital technology and interactive methods with customers.
+            </p>
+
+    <a href="Electric Cars.html" target="_blank"title= "go to  Electric Cars"> Electric Cars</a>
+
+</body>
+-----------------------------------------------------------------------------------------------------------------
+Fuelcars.html :
+<head>
+    <title>
+        FuelCars
+    </title>
+</head>
+<body>
+
+
+    <h2>KIA</h2>
+
+    <table border = "1 ">
+      <tr>
+        
+        <th>Name</th>
+        <th>Price</th>
+        <th>color</th>
+        <th>Motor</th>
+      </tr>
+      <tr>
+      
+        <td>KIA GRAND CERATO</td>
+        <td>469,900  /td>
+        <td>Blue</td>
+        <td>1500 turbo</td>
+      </tr>
+      <tr>
+        
+        <td>KIA XCEED </td>
+        <td>539,900 EGP</td>
+        <td>Black</td>
+        <td>1500 turbo</td>
+
+      </tr>
+      <tr>
+     
+        <td>KIA SORENTO</td>
+        <td>1,179,900 EGP</td>
+        <td>Black</td>
+        <td>1600turbo</td>
+      </tr>
+      
+    </table>
+
+
+    <h2>Fiat</h2>
+
+    <table border = "1 ">
+      <tr>
+        
+        <th>Name</th>
+        <th>Price</th>
+        <th>color</th>
+        <th>Motor</th>
+      </tr>
+      <tr>
+      
+        <td>Fiat 500C 2021</td>
+        <td>369,900 EGP </td>
+        <td>Blue</td>
+        <td>1500 turbo</td>
+      </tr>
+      <tr>
+        
+        <td>Fiat tippo </td>
+        <td>539,900 EGP</td>
+        <td>Black</td>
+        <td>1500 turbo</td>
+
+      </tr>
+    </table>
+
+    <h2>Chevrolet</h2>
+
+    <table border = "1 ">
+      <tr>
+        
+        <th>Name</th>
+        <th>Price</th>
+        <th>color</th>
+        <th>Motor</th>
+      </tr>
+      <tr>
+      
+        <td>Chevrolet Captiva 2022</td>
+        <td>659,990</td>
+        <td>Red</td>
+        <td>1500 turbo</td>
+      </tr>
+      <tr>
+        
+        <td>Chevrolet Malibu 2022 </td>
+        <td>426,500 </td>
+        <td>Black</td>
+        <td>1500 turbo</td>
+
+      </tr>
+
+    </table>
+
+    <h2>BMW</h2>
+    <table border = "1 ">
+      <tr>
+        
+        <th>Name</th>
+        <th>Price</th>
+        <th>color</th>
+        <th>Motor</th>
+      </tr>
+      <tr>
+      
+        <td>BMW X1 2021</td>
+        <td>800,000</td>
+        <td>White</td>
+        <td>1500 turbo</td>
+      </tr>
+      <tr>
+        
+        <td>BMW X3 2021</td>
+        <td>1,650,000 </td>
+        <td>Black</td>
+        <td>1500 turbo</td>
+
+      </tr>
+      <tr>
+
+        <td>BMW 118 2021</td>
+        <td>650,000</td>
+        <td>White</td>
+        <td>1500 turbo</td>
+      </tr>
+    </table>
+
+
+    <h2>Nissan</h2>
+    <table border = "1 ">
+      <tr>
+        
+        <th>Name</th>
+        <th>Price</th>
+        <th>color</th>
+        <th>Motor</th>
+      </tr>
+      <tr>
+      
+        <td>Nissan Sentra 2023 </td>
+        <td>512,400</td>
+        <td>White</td>
+        <td>1400 turbo</td>
+      </tr>
+    </table>
+</body>
+----------------------------------------------------------------------------------------------------------------------
+Elctric Cars :
+<head>
+    <title>
+    Eliectric Cars
+    </title>
+</head>
+<body>
+
+
+    <h2>Availabel Cars</h2>
+
+    <table border = "1">
+      <tr>
+        <th>Company</th>
+        <th>Name</th>
+        <th>Price</th>
+      </tr>
+      <tr>
+        <td>Volkswagen</td>
+        <td>id4 2022</td>
+        <td>1,260,000</td>
+        <td>         </td>
+      </tr>
+      <tr>
+        <td>Volkswagen</td>
+        <td>VW ID4 Crozz Pure Plus </td>
+        <td>1,140,000</td>
+      </tr>
+      
+      <tr>
+        <td>mercedes </td>
+        <td>mercedes eqb 2022</td>
+        <td>1,600,000</td>
+      </tr>
+      <tr>
+        <td>mercedes</td>
+        <td>Mercedes-Benz EQE 350 2022</td>
+        <td>2,800,000</td>
+      </tr>
+      <tr>
+        <td>BMW</td>
+        <td>BMW iX3 Impressive AHK Laser Lenkradheizung 2022</td>
+        <td> 2,000,000</td>
+      </tr>
+    </table>
+
+</body>
+-------------------------------------------------------------------------------------------------------------------------------
+Motorcycles:
+<head>
+    <title>
+  
+        <title>
+            MOTORCYCLES
+        </title>
+</head>
+<body>
+    <h2> MOTORCYCLES</h2>
+
+    <table border = "1">
+      <tr>
+        <th>Name</th>
+        <th>color  </th>
+        <th>Price</th>
+      </tr>
+      <tr>
+        <td>SYM Orbit 2 2021</td>
+        <td>white</td>
+        <td>21,280</td>
+      
+      </tr>
+      <tr>
+        <td>SYM Jet 4 2021</td>
+        <td>white </td>
+        <td>23,883</td>
+      </tr>
+      
+      <tr>
+        <td>SYM Symphony SR 2021</td>
+        <td>Red </td>
+        <td>27,930</td>
+      </tr>
+
+      <tr>
+        <td>SYM Orbit 2 2022</td>
+        <td>white </td>
+        <td>31,490 </td>
+      </tr>
+    </table>
+    </body>
+    --------------------------------------------------------------------------------------------------------------------------------
+    Contactus.html:
+    
+   <head>
+    <title>
+        Contact us
+    </title>
+</head>
+<body>
+
+
+    <div class="container">
+        <div style="text-align:center">
+          <h2>Contact Us</h2>
+          <p>Swing by for a cup of coffee, or leave us a message:</p>
+        </div>
+        <div class="row">
+          <div class="column">
+            <img src="/w3images/map.jpg" style="width:100%">
+          </div>
+          <div class="column">
+            <form action="/action_page.php">
+              <label for="fname">First Name</label>
+              <input type="text" id="fname" name="firstname" placeholder="Your name..">
+              <label for="lname">Last Name</label>
+              <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+              <label for="country">Country</label>
+              <select id="country" name="country">
+                <option value="australia">Australia</option>
+                <option value="canada">Canada</option>
+                <option value="usa">USA</option>
+              </select>
+              <label for="subject">Subject</label>
+              <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+              <input type="submit" value="Submit">
+            </form>
+          </div>
+        </div>
+      
+
+
+
+
+
+</body>
+----------------------------------------------------------
